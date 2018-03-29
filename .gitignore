@@ -1,3 +1,4 @@
 config
 uc_server\data\config.inc.php
 data\attachment
+uc_server\data\avatar

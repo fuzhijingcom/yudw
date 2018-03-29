@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Plugin]]></item>
+	<item id="version"><![CDATA[X2.5,X3,X3.1,X3.2,F1.0,X3.3,X3.4]]></item>
+	<item id="Time"><![CDATA[2015-07-17 12:42]]></item>
+	<item id="From"><![CDATA[西瓜社區 (http://115.28.190.3/demo/)]]></item>
+	<item id="Data">
+		<item id="plugin">
+			<item id="available"><![CDATA[1]]></item>
+			<item id="adminid"><![CDATA[1]]></item>
+			<item id="name"><![CDATA[【西瓜】微信登錄]]></item>
+			<item id="identifier"><![CDATA[xigua_login]]></item>
+			<item id="description"><![CDATA[]]></item>
+			<item id="datatables"><![CDATA[]]></item>
+			<item id="directory"><![CDATA[xigua_login/]]></item>
+			<item id="copyright"><![CDATA[西瓜先生]]></item>
+			<item id="version"><![CDATA[67.20171123]]></item>
+			<item id="__modules">
+				<item id="0">
+					<item id="name"><![CDATA[user]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[用戶管理]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[3]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[0]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="1">
+					<item id="name"><![CDATA[xgbind]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[微信登錄]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[7]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[0]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="2">
+					<item id="name"><![CDATA[login]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[11]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[0]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="3">
+					<item id="name"><![CDATA[login]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[28]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[0]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="4">
+					<item id="name"><![CDATA[unbindlog]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[解綁記錄]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[3]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[1]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="5">
+					<item id="name"><![CDATA[lang]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[語言包]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[3]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[2]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="6">
+					<item id="name"><![CDATA[helpcp]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[使用前必看]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[3]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[89]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+				<item id="7">
+					<item id="name"><![CDATA[app]]></item>
+					<item id="param"><![CDATA[]]></item>
+					<item id="menu"><![CDATA[更多西瓜應用]]></item>
+					<item id="url"><![CDATA[]]></item>
+					<item id="type"><![CDATA[3]]></item>
+					<item id="adminid"><![CDATA[0]]></item>
+					<item id="displayorder"><![CDATA[99]]></item>
+					<item id="navtitle"><![CDATA[]]></item>
+					<item id="navicon"><![CDATA[]]></item>
+					<item id="navsubname"><![CDATA[]]></item>
+					<item id="navsuburl"><![CDATA[]]></item>
+				</item>
+			</item>
+		</item>
+		<item id="version"><![CDATA[X2.5,X3,X3.1,X3.2,F1.0,X3.3,X3.4]]></item>
+		<item id="var">
+			<item id="0">
+				<item id="displayorder"><![CDATA[1]]></item>
+				<item id="title"><![CDATA[appid]]></item>
+				<item id="description"><![CDATA[]]></item>
+				<item id="variable"><![CDATA[appid]]></item>
+				<item id="type"><![CDATA[text]]></item>
+				<item id="value"><![CDATA[]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="1">
+				<item id="displayorder"><![CDATA[2]]></item>
+				<item id="title"><![CDATA[appsecert]]></item>
+				<item id="description"><![CDATA[]]></item>
+				<item id="variable"><![CDATA[appsecert]]></item>
+				<item id="type"><![CDATA[text]]></item>
+				<item id="value"><![CDATA[]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="2">
+				<item id="displayorder"><![CDATA[3]]></item>
+				<item id="title"><![CDATA[借權限]]></item>
+				<item id="description"><![CDATA[一般留空即可。
+如果你的論壇有多域名如www,bbs請填寫你公眾號里的授權回調域名。]]></item>
+				<item id="variable"><![CDATA[rhref]]></item>
+				<item id="type"><![CDATA[text]]></item>
+				<item id="value"><![CDATA[]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="3">
+				<item id="displayorder"><![CDATA[4]]></item>
+				<item id="title"><![CDATA[微信自動注冊]]></item>
+				<item id="description"><![CDATA[]]></item>
+				<item id="variable"><![CDATA[wxmiao]]></item>
+				<item id="type"><![CDATA[radio]]></item>
+				<item id="value"><![CDATA[1]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="4">
+				<item id="displayorder"><![CDATA[5]]></item>
+				<item id="title"><![CDATA[首次進入社區自動登錄]]></item>
+				<item id="description"><![CDATA[如果用戶首次進入社區則會直接進行微信登錄]]></item>
+				<item id="variable"><![CDATA[openautologin]]></item>
+				<item id="type"><![CDATA[radio]]></item>
+				<item id="value"><![CDATA[1]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="5">
+				<item id="displayorder"><![CDATA[6]]></item>
+				<item id="title"><![CDATA[pc掃碼登錄會關注公眾號]]></item>
+				<item id="description"><![CDATA[教程請關注“論壇圈”-“西瓜社區”-“微信登錄版塊”]]></item>
+				<item id="variable"><![CDATA[pcsubscribe]]></item>
+				<item id="type"><![CDATA[radio]]></item>
+				<item id="value"><![CDATA[0]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="6">
+				<item id="displayorder"><![CDATA[7]]></item>
+				<item id="title"><![CDATA[被佔用的URL服務器地址]]></item>
+				<item id="description"><![CDATA[填寫被佔用的開發服務器配置URL，本插件會將消息轉發至此接口中。一般請勿填寫！]]></item>
+				<item id="variable"><![CDATA[wechaturl]]></item>
+				<item id="type"><![CDATA[text]]></item>
+				<item id="value"><![CDATA[]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="7">
+				<item id="displayorder"><![CDATA[8]]></item>
+				<item id="title"><![CDATA[是否替換手機版登錄界面]]></item>
+				<item id="description"><![CDATA[]]></item>
+				<item id="variable"><![CDATA[get]]></item>
+				<item id="type"><![CDATA[radio]]></item>
+				<item id="value"><![CDATA[1]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="8">
+				<item id="displayorder"><![CDATA[9]]></item>
+				<item id="title"><![CDATA[用戶名重復提示]]></item>
+				<item id="description"><![CDATA[如果留空，用戶名重復時，會自動生成一個帶隨機數的用戶名]]></item>
+				<item id="variable"><![CDATA[confilt]]></item>
+				<item id="type"><![CDATA[text]]></item>
+				<item id="value"><![CDATA[用戶名已存在，請修改後點“新建帳號”]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="9">
+				<item id="displayorder"><![CDATA[10]]></item>
+				<item id="title"><![CDATA[登錄界面logo]]></item>
+				<item id="description"><![CDATA[推薦尺寸︰320*140]]></item>
+				<item id="variable"><![CDATA[logo]]></item>
+				<item id="type"><![CDATA[text]]></item>
+				<item id="value"><![CDATA[]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="10">
+				<item id="displayorder"><![CDATA[11]]></item>
+				<item id="title"><![CDATA[登錄按鈕顏色]]></item>
+				<item id="description"><![CDATA[]]></item>
+				<item id="variable"><![CDATA[logincolor]]></item>
+				<item id="type"><![CDATA[color]]></item>
+				<item id="value"><![CDATA[#00BF7A]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="11">
+				<item id="displayorder"><![CDATA[12]]></item>
+				<item id="title"><![CDATA[快捷登錄按鈕顏色]]></item>
+				<item id="description"><![CDATA[]]></item>
+				<item id="variable"><![CDATA[onekeycolor]]></item>
+				<item id="type"><![CDATA[color]]></item>
+				<item id="value"><![CDATA[#42bd56]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="12">
+				<item id="displayorder"><![CDATA[13]]></item>
+				<item id="title"><![CDATA[登錄頁面背景顏色]]></item>
+				<item id="description"><![CDATA[]]></item>
+				<item id="variable"><![CDATA[bgcolor]]></item>
+				<item id="type"><![CDATA[color]]></item>
+				<item id="value"><![CDATA[]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="13">
+				<item id="displayorder"><![CDATA[14]]></item>
+				<item id="title"><![CDATA[圓角]]></item>
+				<item id="description"><![CDATA[單位像素。]]></item>
+				<item id="variable"><![CDATA[radius]]></item>
+				<item id="type"><![CDATA[number]]></item>
+				<item id="value"><![CDATA[2]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="14">
+				<item id="displayorder"><![CDATA[15]]></item>
+				<item id="title"><![CDATA[登錄頁面文字顏色]]></item>
+				<item id="description"><![CDATA[]]></item>
+				<item id="variable"><![CDATA[regcolor]]></item>
+				<item id="type"><![CDATA[color]]></item>
+				<item id="value"><![CDATA[#999]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="15">
+				<item id="displayorder"><![CDATA[16]]></item>
+				<item id="title"><![CDATA[快捷登錄文字]]></item>
+				<item id="description"><![CDATA[]]></item>
+				<item id="variable"><![CDATA[onekey]]></item>
+				<item id="type"><![CDATA[text]]></item>
+				<item id="value"><![CDATA[快捷登錄]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="16">
+				<item id="displayorder"><![CDATA[17]]></item>
+				<item id="title"><![CDATA[是否顯示快捷登錄按鈕]]></item>
+				<item id="description"><![CDATA[]]></item>
+				<item id="variable"><![CDATA[showonekey]]></item>
+				<item id="type"><![CDATA[radio]]></item>
+				<item id="value"><![CDATA[1]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="17">
+				<item id="displayorder"><![CDATA[18]]></item>
+				<item id="title"><![CDATA[登錄頁面背景圖片]]></item>
+				<item id="description"><![CDATA[可以填相對地址的圖片地址，也可以填寫絕對地址的圖片地址。
+每行一個，多個圖片會隨機顯示一張。
+本插件里自帶了一張背景︰source/plugin/xigua_login/static/bg.jpg]]></item>
+				<item id="variable"><![CDATA[bgimg]]></item>
+				<item id="type"><![CDATA[textarea]]></item>
+				<item id="value"><![CDATA[]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="18">
+				<item id="displayorder"><![CDATA[19]]></item>
+				<item id="title"><![CDATA[默認用戶組]]></item>
+				<item id="description"><![CDATA[微信登錄自動注冊時用戶所屬的用戶組]]></item>
+				<item id="variable"><![CDATA[groupid]]></item>
+				<item id="type"><![CDATA[group]]></item>
+				<item id="value"><![CDATA[10]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="19">
+				<item id="displayorder"><![CDATA[20]]></item>
+				<item id="title"><![CDATA[電腦版微信登錄按鈕]]></item>
+				<item id="description"><![CDATA[選是表示顯示，選否表示隱藏]]></item>
+				<item id="variable"><![CDATA[pcbind]]></item>
+				<item id="type"><![CDATA[radio]]></item>
+				<item id="value"><![CDATA[1]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="20">
+				<item id="displayorder"><![CDATA[21]]></item>
+				<item id="title"><![CDATA[隱藏手機微信登錄按鈕]]></item>
+				<item id="description"><![CDATA[選是就隱藏了手機版的微信登錄按鈕]]></item>
+				<item id="variable"><![CDATA[hidebtn]]></item>
+				<item id="type"><![CDATA[radio]]></item>
+				<item id="value"><![CDATA[0]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="21">
+				<item id="displayorder"><![CDATA[22]]></item>
+				<item id="title"><![CDATA[登錄後強制跳轉到]]></item>
+				<item id="description"><![CDATA[請留空!!!!如需填寫,請填寫完整地址，帶http://]]></item>
+				<item id="variable"><![CDATA[weret]]></item>
+				<item id="type"><![CDATA[text]]></item>
+				<item id="value"><![CDATA[]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="22">
+				<item id="displayorder"><![CDATA[23]]></item>
+				<item id="title"><![CDATA[跳過QQ登錄綁定流程]]></item>
+				<item id="description"><![CDATA[此功能需QQ互聯插件開啟並正常使用，如開啟有異常，請關閉。]]></item>
+				<item id="variable"><![CDATA[qqmiao]]></item>
+				<item id="type"><![CDATA[radio]]></item>
+				<item id="value"><![CDATA[1]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="23">
+				<item id="displayorder"><![CDATA[24]]></item>
+				<item id="title"><![CDATA[手機綁定表單編碼]]></item>
+				<item id="description"><![CDATA[請勿隨意動此處設置，除非手機綁定微信注冊有亂碼]]></item>
+				<item id="variable"><![CDATA[charset]]></item>
+				<item id="type"><![CDATA[select]]></item>
+				<item id="value"><![CDATA[utf-8]]></item>
+				<item id="extra"><![CDATA[0=默認
+utf-8=UTF8
+gbk=GBK]]></item>
+			</item>
+			<item id="24">
+				<item id="displayorder"><![CDATA[25]]></item>
+				<item id="title"><![CDATA[顯示登錄成功中繼頁面]]></item>
+				<item id="description"><![CDATA[如果您有同步登錄的需要,請開啟此項,否則可以關閉此項]]></item>
+				<item id="variable"><![CDATA[showscmsg]]></item>
+				<item id="type"><![CDATA[radio]]></item>
+				<item id="value"><![CDATA[0]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="25">
+				<item id="displayorder"><![CDATA[26]]></item>
+				<item id="title"><![CDATA[訂閱號二維碼地址]]></item>
+				<item id="description"><![CDATA[教程︰請關注“論壇圈”-“西瓜社區”-“微信登錄版塊”，服務號請勿填寫，否則後果自負！]]></item>
+				<item id="variable"><![CDATA[qrcode]]></item>
+				<item id="type"><![CDATA[text]]></item>
+				<item id="value"><![CDATA[]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="26">
+				<item id="displayorder"><![CDATA[27]]></item>
+				<item id="title"><![CDATA[debug模式]]></item>
+				<item id="description"><![CDATA[用于出錯時排查，一般請勿打開]]></item>
+				<item id="variable"><![CDATA[debug]]></item>
+				<item id="type"><![CDATA[radio]]></item>
+				<item id="value"><![CDATA[0]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="27">
+				<item id="displayorder"><![CDATA[28]]></item>
+				<item id="title"><![CDATA[QQ登錄鏈接]]></item>
+				<item id="description"><![CDATA[如果您使用了三方qq登錄，可以將三方提供的qq登錄鏈接填到此處。]]></item>
+				<item id="variable"><![CDATA[qq_uri]]></item>
+				<item id="type"><![CDATA[text]]></item>
+				<item id="value"><![CDATA[]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="28">
+				<item id="displayorder"><![CDATA[29]]></item>
+				<item id="title"><![CDATA[【短信】smsAppKey]]></item>
+				<item id="description"><![CDATA[舊版阿里大于的smsAppKey
+新版阿里大于的ACCESS_ID]]></item>
+				<item id="variable"><![CDATA[smsAppKey]]></item>
+				<item id="type"><![CDATA[text]]></item>
+				<item id="value"><![CDATA[]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="29">
+				<item id="displayorder"><![CDATA[30]]></item>
+				<item id="title"><![CDATA[【短信】smssecretKey]]></item>
+				<item id="description"><![CDATA[舊版阿里大于的smssecretKey
+新版阿里大于的ACCESS_KEY]]></item>
+				<item id="variable"><![CDATA[smssecretKey]]></item>
+				<item id="type"><![CDATA[text]]></item>
+				<item id="value"><![CDATA[]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="30">
+				<item id="displayorder"><![CDATA[31]]></item>
+				<item id="title"><![CDATA[【短信】短信模版ID]]></item>
+				<item id="description"><![CDATA[所選的模版內要有${code}]]></item>
+				<item id="variable"><![CDATA[smsTemplateCode]]></item>
+				<item id="type"><![CDATA[text]]></item>
+				<item id="value"><![CDATA[]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="31">
+				<item id="displayorder"><![CDATA[32]]></item>
+				<item id="title"><![CDATA[【短信】短信簽名]]></item>
+				<item id="description"><![CDATA[]]></item>
+				<item id="variable"><![CDATA[smsFreeSignName]]></item>
+				<item id="type"><![CDATA[text]]></item>
+				<item id="value"><![CDATA[]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="32">
+				<item id="displayorder"><![CDATA[33]]></item>
+				<item id="title"><![CDATA[【短信】新版阿里雲雲通信]]></item>
+				<item id="description"><![CDATA[短信後台地址︰
+dayu.aliyun.com為舊版本
+dysms.console.aliyun.com為新版本]]></item>
+				<item id="variable"><![CDATA[newsdk]]></item>
+				<item id="type"><![CDATA[radio]]></item>
+				<item id="value"><![CDATA[0]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+			<item id="33">
+				<item id="displayorder"><![CDATA[34]]></item>
+				<item id="title"><![CDATA[【注冊】允許設置密碼]]></item>
+				<item id="description"><![CDATA[開啟後在注冊頁面“新建帳號”有顯示密碼選項。
+只有當“微信自動注冊”關閉時候此項才生效]]></item>
+				<item id="variable"><![CDATA[allowpassword]]></item>
+				<item id="type"><![CDATA[radio]]></item>
+				<item id="value"><![CDATA[0]]></item>
+				<item id="extra"><![CDATA[]]></item>
+			</item>
+		</item>
+		<item id="language">
+			<item id="scriptlang">
+				<item id="tiptip"><![CDATA[綁定微信號 隨時隨地登錄！]]></item>
+				<item id="tiptip2"><![CDATA[請用微信掃描二維碼登錄]]></item>
+				<item id="tiptip3"><![CDATA[該微信已綁定，請更換微信號！]]></item>
+				<item id="gender1"><![CDATA[男]]></item>
+				<item id="gender2"><![CDATA[女]]></item>
+				<item id="back"><![CDATA[返回上一頁]]></item>
+				<item id="notice1"><![CDATA[<li>如何設置︰<br><img src="source/plugin/xigua_login/static/1.jpg" /></li>]]></item>
+				<item id="please_inwechat"><![CDATA[請在微信客戶端內打開該鏈接]]></item>
+				<item id="unbind"><![CDATA[解綁]]></item>
+				<item id="unbindanddel"><![CDATA[解綁並刪除]]></item>
+				<item id="confirm1"><![CDATA[確認解綁並刪除（%s）嗎？]]></item>
+				<item id="delete_succeed1"><![CDATA[解綁並刪除（%s）成功\！]]></item>
+				<item id="confirm2"><![CDATA[確認解綁嗎？解綁後該用戶（%s）會殘留在系統中，需自行到用戶管理刪除，請慎重！！]]></item>
+				<item id="delete_succeed2"><![CDATA[解綁成功\！該用戶（%s）並未被刪除，請自行到用戶管理刪除！]]></item>
+				<item id="dbhost"><![CDATA[馬甲數據庫服務器]]></item>
+				<item id="dbhost_c"><![CDATA[請填寫"MAGAPP客戶端管理系統"使用的 數據庫服務器地址(ip或數據庫服務器域名),如果 MySQL 端口不是默認的 3306，請填寫如下形式︰127.0.0.1:6033]]></item>
+				<item id="dbuser"><![CDATA[馬甲數據庫用戶名]]></item>
+				<item id="dbuser_c"><![CDATA[請填寫"MAGAPP客戶端管理系統"使用的 數據庫用戶名]]></item>
+				<item id="dbpw"><![CDATA[馬甲數據庫密碼]]></item>
+				<item id="dbpw_c"><![CDATA[請填寫"MAGAPP客戶端管理系統"使用的 數據庫密碼,密碼不會泄露,請放心!]]></item>
+				<item id="dbname"><![CDATA[馬甲數據庫名]]></item>
+				<item id="dbname_c"><![CDATA[請填寫"MAGAPP客戶端管理系統"使用的 數據庫名]]></item>
+				<item id="tablepre"><![CDATA[馬甲數據表前綴]]></item>
+				<item id="tablepre_c"><![CDATA[請填寫"MAGAPP客戶端管理系統"使用的 數據表前綴,默認為:lab_]]></item>
+				<item id="test"><![CDATA[數據庫測試]]></item>
+				<item id="test_c"><![CDATA[點擊測試]]></item>
+				<item id="bind_success"><![CDATA[恭喜！綁定成功\！]]></item>
+				<item id="login_success"><![CDATA[恭喜！登錄成功\！]]></item>
+				<item id="login_jump"><![CDATA[請點擊鏈接開始注冊]]></item>
+				<item id="bind_now"><![CDATA[立即綁定微信號]]></item>
+				<item id="please_scan"><![CDATA[請掃描二維碼登錄]]></item>
+				<item id="login_failed"><![CDATA[登錄失敗，該微信號可能已經被綁定！]]></item>
+				<item id="wechat_qrcode_input_confirm"><![CDATA[即將在 PC 瀏覽器上登錄用戶 $member[username]<br />請確認是否本人操作]]></item>
+				<item id="wechat_qrcode_input_confirm_yes"><![CDATA[我確認登錄此用戶]]></item>
+				<item id="wechat_spacecp_bind_title"><![CDATA[您已將本站帳號 <strong>{$_G[member][username]}</strong> 與微信綁定]]></item>
+				<item id="wechat_spacecp_setpw"><![CDATA[設置獨立密碼]]></item>
+				<item id="wechat_spacecp_pw"><![CDATA[新密碼]]></item>
+				<item id="wechat_spacecp_repw"><![CDATA[確認密碼]]></item>
+				<item id="wechat_spacecp_unbind"><![CDATA[解除已綁定微信？]]></item>
+				<item id="wechat_spacecp_setpw_first"><![CDATA[請設置獨立密碼後再解除綁定關系]]></item>
+				<item id="wechat_spacecp_unbind_confirm"><![CDATA[您確認要解除與本站帳號的綁定關系？]]></item>
+				<item id="wechat_spacecp_unbind_button"><![CDATA[確認解除]]></item>
+				<item id="wechat_bind"><![CDATA[綁定微信帳號]]></item>
+				<item id="wechat_login"><![CDATA[微信帳號登錄]]></item>
+				<item id="wechat_bind_comfirm_prompt"><![CDATA[請輸入您的論壇登錄密碼以確認身份]]></item>
+				<item id="quickregister"><![CDATA[立即注冊]]></item>
+				<item id="inputyourname"><![CDATA[請輸入用戶名]]></item>
+				<item id="wsq_indexqr"><![CDATA[用微信掃一掃<br />互動贏積分]]></item>
+				<item id="wsq_threadqr"><![CDATA[用微信掃一掃，互動贏積分]]></item>
+				<item id="wechat_share"><![CDATA[微信]]></item>
+				<item id="wechat_sharetitle"><![CDATA[分享到微信]]></item>
+				<item id="wechat_register"><![CDATA[填寫以下信息完成微信帳號注冊]]></item>
+				<item id="show_recommend_number"><![CDATA[已有 <strong class="xi1">{$post[voters]}</strong> 人點贊]]></item>
+				<item id="show_scanqr"><![CDATA[通過微信掃描二維碼為我拉票]]></item>
+				<item id="resource_push"><![CDATA[推送到微信素材]]></item>
+				<item id="nihao"><![CDATA[，]]></item>
+				<item id="profile_username_duplicate"><![CDATA[微信名已被注冊，點我修改並注冊]]></item>
+				<item id="profile_username_illegal"><![CDATA[微信名含敏感詞，點我修改並注冊]]></item>
+				<item id="profile_username_protect"><![CDATA[微信名包含被系統屏蔽的字符，點我修改並注冊]]></item>
+				<item id="link_error"><![CDATA[該鏈接已失效！]]></item>
+				<item id="login"><![CDATA[登錄]]></item>
+				<item id="login_now"><![CDATA[點擊該鏈接立即訪問社區！]]></item>
+				<item id="reply_login"><![CDATA[請掃碼回復 <b style='color:red'>{code}</b> 即可登錄]]></item>
+				<item id="in_wechat_reply_login"><![CDATA[請長按識別二維碼，回復“登錄”登錄論壇。]]></item>
+				<item id="newbtn"><![CDATA[新建帳號]]></item>
+				<item id="bind"><![CDATA[綁定微信]]></item>
+				<item id="bindexists"><![CDATA[如果您有帳號，請綁定已有的帳號]]></item>
+				<item id="newtip"><![CDATA[請確定用戶名]]></item>
+				<item id="qqword"><![CDATA[QQ登錄]]></item>
+				<item id="wechatword"><![CDATA[微信登錄]]></item>
+				<item id="sanguide"><![CDATA[使用三方登錄]]></item>
+				<item id="regfont"><![CDATA[注冊新帳號]]></item>
+				<item id="vcodeerror"><![CDATA[驗證碼不正確]]></item>
+				<item id="vcode_expire"><![CDATA[驗證碼已過期]]></item>
+				<item id="vcode_get"><![CDATA[獲取驗證碼]]></item>
+				<item id="vcode"><![CDATA[驗證碼]]></item>
+				<item id="vcode_input"><![CDATA[請輸入驗證碼]]></item>
+				<item id="vcode_again"><![CDATA[重發]]></item>
+				<item id="mobile"><![CDATA[手機號碼]]></item>
+				<item id="unbind_ts"><![CDATA[解綁時間]]></item>
+				<item id="plzinput"><![CDATA[請輸入手機號碼]]></item>
+				<item id="mimaempty"><![CDATA[密碼不能為空]]></item>
+			</item>
+			<item id="templatelang">
+				<item id="tiptip"><![CDATA[綁定微信號 隨時隨地登錄！]]></item>
+				<item id="tiptip2"><![CDATA[請用微信掃描二維碼登錄]]></item>
+				<item id="tiptip3"><![CDATA[該微信已綁定，請更換微信號！]]></item>
+				<item id="gender1"><![CDATA[男]]></item>
+				<item id="gender2"><![CDATA[女]]></item>
+				<item id="back"><![CDATA[返回上一頁]]></item>
+				<item id="notice1"><![CDATA[<li>如何設置︰<br><img src="source/plugin/xigua_login/static/1.jpg" /></li>]]></item>
+				<item id="please_inwechat"><![CDATA[請在微信客戶端內打開該鏈接]]></item>
+				<item id="unbind"><![CDATA[解綁]]></item>
+				<item id="unbindanddel"><![CDATA[解綁並刪除]]></item>
+				<item id="confirm1"><![CDATA[確認解綁並刪除（%s）嗎？]]></item>
+				<item id="delete_succeed1"><![CDATA[解綁並刪除（%s）成功\！]]></item>
+				<item id="confirm2"><![CDATA[確認解綁嗎？解綁後該用戶（%s）會殘留在系統中，需自行到用戶管理刪除，請慎重！！]]></item>
+				<item id="delete_succeed2"><![CDATA[解綁成功\！該用戶（%s）並未被刪除，請自行到用戶管理刪除！]]></item>
+				<item id="dbhost"><![CDATA[馬甲數據庫服務器]]></item>
+				<item id="dbhost_c"><![CDATA[請填寫"MAGAPP客戶端管理系統"使用的 數據庫服務器地址(ip或數據庫服務器域名),如果 MySQL 端口不是默認的 3306，請填寫如下形式︰127.0.0.1:6033]]></item>
+				<item id="dbuser"><![CDATA[馬甲數據庫用戶名]]></item>
+				<item id="dbuser_c"><![CDATA[請填寫"MAGAPP客戶端管理系統"使用的 數據庫用戶名]]></item>
+				<item id="dbpw"><![CDATA[馬甲數據庫密碼]]></item>
+				<item id="dbpw_c"><![CDATA[請填寫"MAGAPP客戶端管理系統"使用的 數據庫密碼,密碼不會泄露,請放心!]]></item>
+				<item id="dbname"><![CDATA[馬甲數據庫名]]></item>
+				<item id="dbname_c"><![CDATA[請填寫"MAGAPP客戶端管理系統"使用的 數據庫名]]></item>
+				<item id="tablepre"><![CDATA[馬甲數據表前綴]]></item>
+				<item id="tablepre_c"><![CDATA[請填寫"MAGAPP客戶端管理系統"使用的 數據表前綴,默認為:lab_]]></item>
+				<item id="test"><![CDATA[數據庫測試]]></item>
+				<item id="test_c"><![CDATA[點擊測試]]></item>
+				<item id="bind_success"><![CDATA[恭喜！綁定成功\！]]></item>
+				<item id="login_success"><![CDATA[恭喜！登錄成功\！]]></item>
+				<item id="login_jump"><![CDATA[請點擊鏈接開始注冊]]></item>
+				<item id="bind_now"><![CDATA[立即綁定微信號]]></item>
+				<item id="please_scan"><![CDATA[請掃描二維碼登錄]]></item>
+				<item id="login_failed"><![CDATA[登錄失敗，該微信號可能已經被綁定！]]></item>
+				<item id="wechat_qrcode_input_confirm"><![CDATA[即將在 PC 瀏覽器上登錄用戶 $member[username]<br />請確認是否本人操作]]></item>
+				<item id="wechat_qrcode_input_confirm_yes"><![CDATA[我確認登錄此用戶]]></item>
+				<item id="wechat_spacecp_bind_title"><![CDATA[您已將本站帳號 <strong>{$_G[member][username]}</strong> 與微信綁定]]></item>
+				<item id="wechat_spacecp_setpw"><![CDATA[設置獨立密碼]]></item>
+				<item id="wechat_spacecp_pw"><![CDATA[新密碼]]></item>
+				<item id="wechat_spacecp_repw"><![CDATA[確認密碼]]></item>
+				<item id="wechat_spacecp_unbind"><![CDATA[解除已綁定微信？]]></item>
+				<item id="wechat_spacecp_setpw_first"><![CDATA[請設置獨立密碼後再解除綁定關系]]></item>
+				<item id="wechat_spacecp_unbind_confirm"><![CDATA[您確認要解除與本站帳號的綁定關系？]]></item>
+				<item id="wechat_spacecp_unbind_button"><![CDATA[確認解除]]></item>
+				<item id="wechat_bind"><![CDATA[綁定微信帳號]]></item>
+				<item id="wechat_login"><![CDATA[微信帳號登錄]]></item>
+				<item id="wechat_bind_comfirm_prompt"><![CDATA[請輸入您的論壇登錄密碼以確認身份]]></item>
+				<item id="quickregister"><![CDATA[立即注冊]]></item>
+				<item id="inputyourname"><![CDATA[請輸入用戶名]]></item>
+				<item id="wsq_indexqr"><![CDATA[用微信掃一掃<br />互動贏積分]]></item>
+				<item id="wsq_threadqr"><![CDATA[用微信掃一掃，互動贏積分]]></item>
+				<item id="wechat_share"><![CDATA[微信]]></item>
+				<item id="wechat_sharetitle"><![CDATA[分享到微信]]></item>
+				<item id="wechat_register"><![CDATA[填寫以下信息完成微信帳號注冊]]></item>
+				<item id="show_recommend_number"><![CDATA[已有 <strong class="xi1">{$post[voters]}</strong> 人點贊]]></item>
+				<item id="show_scanqr"><![CDATA[通過微信掃描二維碼為我拉票]]></item>
+				<item id="resource_push"><![CDATA[推送到微信素材]]></item>
+				<item id="nihao"><![CDATA[，]]></item>
+				<item id="profile_username_duplicate"><![CDATA[微信名已被注冊，點我修改並注冊]]></item>
+				<item id="profile_username_illegal"><![CDATA[微信名含敏感詞，點我修改並注冊]]></item>
+				<item id="profile_username_protect"><![CDATA[微信名包含被系統屏蔽的字符，點我修改並注冊]]></item>
+				<item id="link_error"><![CDATA[該鏈接已失效！]]></item>
+				<item id="login"><![CDATA[登錄]]></item>
+				<item id="login_now"><![CDATA[點擊該鏈接立即訪問社區！]]></item>
+				<item id="reply_login"><![CDATA[請掃碼回復 <b style='color:red'>{code}</b> 即可登錄]]></item>
+				<item id="in_wechat_reply_login"><![CDATA[請長按識別二維碼，回復“登錄”登錄論壇。]]></item>
+				<item id="newbtn"><![CDATA[新建帳號]]></item>
+				<item id="bind"><![CDATA[綁定微信]]></item>
+				<item id="bindexists"><![CDATA[如果您有帳號，請綁定已有的帳號]]></item>
+				<item id="newtip"><![CDATA[請確定用戶名]]></item>
+				<item id="qqword"><![CDATA[QQ登錄]]></item>
+				<item id="wechatword"><![CDATA[微信登錄]]></item>
+				<item id="sanguide"><![CDATA[使用三方登錄]]></item>
+				<item id="regfont"><![CDATA[注冊新帳號]]></item>
+				<item id="vcodeerror"><![CDATA[驗證碼不正確]]></item>
+				<item id="vcode_expire"><![CDATA[驗證碼已過期]]></item>
+				<item id="vcode_get"><![CDATA[獲取驗證碼]]></item>
+				<item id="vcode"><![CDATA[驗證碼]]></item>
+				<item id="vcode_input"><![CDATA[請輸入驗證碼]]></item>
+				<item id="vcode_again"><![CDATA[重發]]></item>
+				<item id="mobile"><![CDATA[手機號碼]]></item>
+				<item id="unbind_ts"><![CDATA[解綁時間]]></item>
+				<item id="plzinput"><![CDATA[請輸入手機號碼]]></item>
+				<item id="mimaempty"><![CDATA[密碼不能為空]]></item>
+			</item>
+		</item>
+		<item id="installfile"><![CDATA[install.php]]></item>
+		<item id="upgradefile"><![CDATA[install.php]]></item>
+		<item id="uninstallfile"><![CDATA[uninstall.php]]></item>
+	</item>
+</root>
